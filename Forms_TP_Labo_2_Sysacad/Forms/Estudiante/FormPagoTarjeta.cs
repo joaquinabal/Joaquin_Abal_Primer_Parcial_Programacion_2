@@ -72,7 +72,6 @@ namespace Forms_TP_Labo_2_Sysacad
             else if (!resultadoValidacion.ExistenciaErrores)
             {
                 Sistema.EstudianteLogueado.ActualizarConceptosDePago(ConceptosSeleccionados);
-                MessageBox.Show("vamos pa delante");
                 this.Close();
                 FormComprobantePago formComprobantePago = new FormComprobantePago(Monto, ConceptosSeleccionados, _cantCuotas);
                 formComprobantePago.Show();

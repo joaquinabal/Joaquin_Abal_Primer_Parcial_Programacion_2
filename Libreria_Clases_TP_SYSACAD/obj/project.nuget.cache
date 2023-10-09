@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kms8Ak37ZHRK83yERAuIRc9e0tYu/yXewnprou5ABJ88VYAxc5+e851MUteQLuiOdij5NvZiTVtslwSdbLvMmQ==",
+  "dgSpecHash": "0NPkod6h9+XimaQFRH8XcB03qVebi1IcMTFq785jwfPOkny4VLmhNmvZM+ldUdPyh3LRAb/dQaGutREaGSal6Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\54113\\Desktop\\tp - copia\\TP_Labo_2_Sysacad\\Libreria_Clases_TP_SYSACAD\\Libreria_Clases_TP_SYSACAD.csproj",
+  "projectFilePath": "C:\\Users\\54113\\Desktop\\final\\TP_Labo_2_Sysacad\\Libreria_Clases_TP_SYSACAD\\Libreria_Clases_TP_SYSACAD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\54113\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
   ],
